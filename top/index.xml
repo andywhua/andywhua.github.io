@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tops on Poetry &amp; Economics</title>
+    <link>https://poetryandeconomics.com/top/</link>
+    <description>Recent content in Tops on Poetry &amp; Economics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://poetryandeconomics.com/top/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://poetryandeconomics.com/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://poetryandeconomics.com/top/about/</guid>
+      <description>Born and raised in China, Wei Hua spent his formative years across the world. He is currently working as an ERC research assistant for Professor Jan Eecokout at Universitat Pompeu Fabra. He received a BA in Economics from New York University and a MSc in Economics from University College London. He will be a PhD student in economics at London Business School starting this fall.
+While he is not working, he enjoys reading, hiking, travelling, rock climbing (thank to his dear friend Alex Hiroshi Akiba) and learning languages.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://poetryandeconomics.com/top/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://poetryandeconomics.com/top/courses/</guid>
+      <description>Wei Hua is a voracious learner, and particularly a bit fan of Coursera. This page documents his learning history in this great online learning platform and shares his lecture notes of those courses if available.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Poetry &amp; Economics</title>
+    <link>https://poetryandeconomics.com/post/</link>
+    <description>Recent content in Posts on Poetry &amp; Economics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://poetryandeconomics.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to Wei Hua&#39;s Blog</title>
+      <link>https://poetryandeconomics.com/2020/05/07/hello-world/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://poetryandeconomics.com/2020/05/07/hello-world/</guid>
+      <description> “Yeah It&amp;rsquo;s on. The site is under construction ”
+ </description>
+    </item>
+    
+  </channel>
+</rss>
